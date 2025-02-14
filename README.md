@@ -1,4 +1,4 @@
-<p align="center"> :snowflake: Every day I improve myself and always climb step by step in the area of ​​technology that I love :snowflake:</p>
+<p align="center">:snowflake: Every day I improve myself and always climb step by step in the area of ​​technology that I love</p>
 
 ###
 
